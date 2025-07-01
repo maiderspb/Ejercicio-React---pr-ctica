@@ -68,6 +68,10 @@ const dishes = [
     price: 15
   }
 ]
+
+```
+
+
 ✨Extra
 
 - 📱 Implementar diseño responsive para la página.
@@ -90,6 +94,6 @@ const dishes = [
 
 - 🧩 Ejecutar npm install para instalar dependencias
 
-- ▶️ Ejecutar
+- ▶️ Ejecutar npm run dev para iniciar la aplicación en modo desarrollo
 
-```
+
